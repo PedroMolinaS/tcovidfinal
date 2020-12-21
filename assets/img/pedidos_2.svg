@@ -1,0 +1,120 @@
+<?xml version="1.0"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:svgjs="http://svgjs.com/svgjs" version="1.1" width="512" height="512" x="0" y="0" viewBox="0 0 512 512" style="enable-background:new 0 0 512 512" xml:space="preserve" class=""><g><script>
+        // Catch errors if signal is already set by user agent or other extension
+        try {
+            Object.defineProperty(navigator, 'globalPrivacyControl', {
+                value: false,
+                enumerable: true
+            })
+            // Remove script tag after execution
+            document.currentScript.parentElement.removeChild(document.currentScript)
+        } catch (e) {}</script><g xmlns="http://www.w3.org/2000/svg"><g><g><path d="m264.211 233.179 17.44 121.747h34.033l17.44-121.747z" fill="#ffbb85" data-original="#b2f0fb" style="" class=""/></g><g><path d="m379.7 233.179-17.44 121.747h45.047l27.379-121.747z" fill="#ffbb85" data-original="#b2f0fb" style="" class=""/></g><g><path d="m217.635 233.179h-54.986l24.589 121.747h47.837z" fill="#ffbb85" data-original="#b2f0fb" style="" class=""/></g></g><g fill="#020288"><path d="m490.471 186.139c-1.9-2.241-4.689-3.533-7.628-3.533h-366.239l-12.382-61.305c-.942-4.665-5.042-8.02-9.802-8.02h-65.263c-5.522 0-10 4.477-10 10s4.478 10 10 10h57.08l60.778 300.918c-9.372 8.131-15.31 20.13-15.31 33.491 0 24.433 19.854 44.31 44.258 44.31s44.258-19.877 44.258-44.31c0-8.97-2.676-17.326-7.271-24.31h138.663c-4.595 6.984-7.271 15.34-7.271 24.31 0 24.433 19.854 44.31 44.258 44.31s44.258-19.877 44.258-44.31c0-9.107-2.759-17.581-7.484-24.629 4.305-1.116 7.484-5.027 7.484-9.681 0-5.523-4.477-10-10-10h-257.624l-3.612-17.881h253.596c24.604 0 45.384-17.618 49.408-41.891l28.081-169.367c.482-2.898-.337-5.861-2.236-8.102zm-290.249 281.551c0 13.405-10.882 24.31-24.258 24.31s-24.258-10.905-24.258-24.31 10.882-24.31 24.258-24.31 24.258 10.905 24.258 24.31zm188.379 24.31c-13.376 0-24.258-10.905-24.258-24.31s10.882-24.31 24.258-24.31 24.258 10.905 24.258 24.31c-.001 13.405-10.882 24.31-24.258 24.31zm56.296-131.663c-2.417 14.58-14.898 25.162-29.678 25.162h-257.636l-36.94-182.893h350.405z" fill="#2682ff" data-original="#020288" style="" class=""/><path d="m298.667 152.899c42.154 0 76.45-34.295 76.45-76.45s-34.296-76.449-76.45-76.449-76.449 34.295-76.449 76.449 34.295 76.45 76.449 76.45zm0-132.899c31.127 0 56.45 25.323 56.45 56.449s-25.323 56.45-56.45 56.45c-31.126 0-56.449-25.323-56.449-56.45 0-31.126 25.323-56.449 56.449-56.449z" fill="#2682ff" data-original="#020288" style="" class=""/><path d="m289.074 100.231c1.889 1.964 4.492 3.069 7.208 3.069.109 0 .22-.002.33-.005 2.833-.094 5.493-1.385 7.319-3.554l28.377-33.7c3.558-4.225 3.017-10.533-1.208-14.09-4.224-3.557-10.533-3.017-14.091 1.208l-21.221 25.201-11.448-11.906c-3.827-3.981-10.159-4.104-14.139-.277-3.981 3.828-4.105 10.159-.277 14.14z" fill="#2682ff" data-original="#020288" style="" class=""/></g></g><script>try {
+                        Object.defineProperty(screen, "availTop", { value: 0 });
+                    } catch (e) {}
+                    try {
+                        Object.defineProperty(screen, "availLeft", { value: 0 });
+                    } catch (e) {}
+                    try {
+                        Object.defineProperty(screen, "availWidth", { value: 1280 });
+                    } catch (e) {}
+                    try {
+                        Object.defineProperty(screen, "availHeight", { value: 1024 });
+                    } catch (e) {}
+                    try {
+                        Object.defineProperty(screen, "colorDepth", { value: 24 });
+                    } catch (e) {}
+                    try {
+                        Object.defineProperty(screen, "pixelDepth", { value: 24 });
+                    } catch (e) {}
+                    try {
+                        Object.defineProperty(navigator, "keyboard", { value: undefined });
+                    } catch (e) {}
+                    try {
+                        Object.defineProperty(navigator, "hardwareConcurrency", { value: 8 });
+                    } catch (e) {}
+                    try {
+                        Object.defineProperty(navigator, "deviceMemory", { value: 8 });
+                    } catch (e) {}
+                    try {
+                        Object.defineProperty(navigator, "webkitTemporaryStorage", { value: undefined });
+                    } catch (e) {}
+                    try {
+                        Object.defineProperty(navigator, "webkitPersistentStorage", { value: undefined });
+                    } catch (e) {}
+                    try {
+                        Object.defineProperty(navigator, "appVersion", { value: "5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4170.0 Safari/537.36 Edg/85.0.552.1" });
+                    } catch (e) {}
+                    try {
+                        Object.defineProperty(navigator, "doNotTrack", { value: null });
+                    } catch (e) {}
+                    
+                navigator.getBattery = function getBattery () {
+                let battery = {"charging":true,"chargingTime":0,"dischargingTime":null,"level":1}
+            
+                try {
+                    Object.defineProperty(battery, 'onchargingchange', {
+                        enumerable: true,
+                        configurable: false,
+                        writable: false,
+                        value: undefined
+                    })
+                } catch (e) {}
+                
+                try {
+                    Object.defineProperty(battery, 'onchargingtimechange', {
+                        enumerable: true,
+                        configurable: false,
+                        writable: false,
+                        value: undefined
+                    })
+                } catch (e) {}
+                
+                try {
+                    Object.defineProperty(battery, 'ondischargingtimechange', {
+                        enumerable: true,
+                        configurable: false,
+                        writable: false,
+                        value: undefined
+                    })
+                } catch (e) {}
+                
+                try {
+                    Object.defineProperty(battery, 'onlevelchange', {
+                        enumerable: true,
+                        configurable: false,
+                        writable: false,
+                        value: undefined
+                    })
+                } catch (e) {}
+                
+                    battery.addEventListener = function addEventListener () {
+                        return
+                    }
+                
+                return Promise.resolve(battery)
+                }
+            
+            try {
+                window.screenY = 3
+            } catch (e) { }
+        
+            try {
+                window.screenTop = 3
+            } catch (e) { }
+        
+            try {
+                window.top.window.outerHeight = 978
+            } catch (e) { }
+        
+            try {
+                window.screenX = 0
+            } catch (e) { }
+        
+            try {
+                window.screenLeft = 0
+            } catch (e) { }
+        
+            try {
+                window.top.window.outerWidth = 1274
+            } catch (e) { }
+        </script></g></svg>
